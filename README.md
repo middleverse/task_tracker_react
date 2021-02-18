@@ -12,5 +12,5 @@ Getting acquainted with React.
 - Remove task
 - Toggle task reminders
 - json-server library for fake data fetch
-(Data isn't transient, but initial fetch works)
+(Data isn't persistent, but initial fetch works)
 
